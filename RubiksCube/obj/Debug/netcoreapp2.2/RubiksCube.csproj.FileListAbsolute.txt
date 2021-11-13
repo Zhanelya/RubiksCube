@@ -1,0 +1,11 @@
+C:\Users\zhanelya.subebayeva\_Work\RubiksCube\RubiksCube\bin\Debug\netcoreapp2.2\RubiksCube.deps.json
+C:\Users\zhanelya.subebayeva\_Work\RubiksCube\RubiksCube\bin\Debug\netcoreapp2.2\RubiksCube.runtimeconfig.json
+C:\Users\zhanelya.subebayeva\_Work\RubiksCube\RubiksCube\bin\Debug\netcoreapp2.2\RubiksCube.runtimeconfig.dev.json
+C:\Users\zhanelya.subebayeva\_Work\RubiksCube\RubiksCube\bin\Debug\netcoreapp2.2\RubiksCube.dll
+C:\Users\zhanelya.subebayeva\_Work\RubiksCube\RubiksCube\bin\Debug\netcoreapp2.2\RubiksCube.pdb
+C:\Users\zhanelya.subebayeva\_Work\RubiksCube\RubiksCube\obj\Debug\netcoreapp2.2\RubiksCube.csprojAssemblyReference.cache
+C:\Users\zhanelya.subebayeva\_Work\RubiksCube\RubiksCube\obj\Debug\netcoreapp2.2\RubiksCube.csproj.CoreCompileInputs.cache
+C:\Users\zhanelya.subebayeva\_Work\RubiksCube\RubiksCube\obj\Debug\netcoreapp2.2\RubiksCube.AssemblyInfoInputs.cache
+C:\Users\zhanelya.subebayeva\_Work\RubiksCube\RubiksCube\obj\Debug\netcoreapp2.2\RubiksCube.AssemblyInfo.cs
+C:\Users\zhanelya.subebayeva\_Work\RubiksCube\RubiksCube\obj\Debug\netcoreapp2.2\RubiksCube.dll
+C:\Users\zhanelya.subebayeva\_Work\RubiksCube\RubiksCube\obj\Debug\netcoreapp2.2\RubiksCube.pdb
