@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zhanelya.subebayeva\\_Work\\RubiksCube\\RubiksCube\\RubiksCube.csproj",
+      "projectUniqueName": "C:\\Users\\zhanelya.subebayeva\\RubiksCube\\RubiksCube\\RubiksCube.csproj",
       "projectName": "RubiksCube",
-      "projectPath": "C:\\Users\\zhanelya.subebayeva\\_Work\\RubiksCube\\RubiksCube\\RubiksCube.csproj",
+      "projectPath": "C:\\Users\\zhanelya.subebayeva\\RubiksCube\\RubiksCube\\RubiksCube.csproj",
       "packagesPath": "C:\\Users\\zhanelya.subebayeva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zhanelya.subebayeva\\_Work\\RubiksCube\\RubiksCube\\obj\\",
+      "outputPath": "C:\\Users\\zhanelya.subebayeva\\RubiksCube\\RubiksCube\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

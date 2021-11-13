@@ -5880,11 +5880,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zhanelya.subebayeva\\_Work\\RubiksCube\\RubiksCube.Tests\\RubiksCube.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\zhanelya.subebayeva\\RubiksCube\\RubiksCube.Tests\\RubiksCube.Tests.csproj",
       "projectName": "RubiksCube.Tests",
-      "projectPath": "C:\\Users\\zhanelya.subebayeva\\_Work\\RubiksCube\\RubiksCube.Tests\\RubiksCube.Tests.csproj",
+      "projectPath": "C:\\Users\\zhanelya.subebayeva\\RubiksCube\\RubiksCube.Tests\\RubiksCube.Tests.csproj",
       "packagesPath": "C:\\Users\\zhanelya.subebayeva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zhanelya.subebayeva\\_Work\\RubiksCube\\RubiksCube.Tests\\obj\\",
+      "outputPath": "C:\\Users\\zhanelya.subebayeva\\RubiksCube\\RubiksCube.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5904,8 +5904,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\zhanelya.subebayeva\\_Work\\RubiksCube\\RubiksCube\\RubiksCube.csproj": {
-              "projectPath": "C:\\Users\\zhanelya.subebayeva\\_Work\\RubiksCube\\RubiksCube\\RubiksCube.csproj"
+            "C:\\Users\\zhanelya.subebayeva\\RubiksCube\\RubiksCube\\RubiksCube.csproj": {
+              "projectPath": "C:\\Users\\zhanelya.subebayeva\\RubiksCube\\RubiksCube\\RubiksCube.csproj"
             }
           }
         }
